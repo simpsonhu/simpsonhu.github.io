@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Personal Homepage"
+title                    : "Bintao Hu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Bintao Hu"
 description              : &description "Assistant Professor from Xi'an Jiaotong-Liverpool University"
