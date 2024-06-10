@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Bintao"
+name                     : &name "Dr. Bintao Hu"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "BTH.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "bintao.png"
+  name             : "Dr. Bintao Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor - Xi'an Jiaotong-Liverpool University"
+  location         : "Suzhou, China"
+  employer         : "Xi'an Jiaotong-Liverpool University (XJTLU)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Bintao.Hu@xjtlu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
