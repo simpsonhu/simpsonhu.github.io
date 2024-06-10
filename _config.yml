@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bintao.png"
+  avatar           : "BTH.jpg"
   name             : "Dr. Bintao Hu"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor - Xi'an Jiaotong-Liverpool University"
   location         : "Suzhou, China"
-  employer         : "Xi'an Jiaotong-Liverpool University (XJTLU)"
+  employer         : "Xi'an Jiaotong-Liverpool University"
   uri              : # URL
   email            : "Bintao.Hu@xjtlu.edu.cn" 
 
