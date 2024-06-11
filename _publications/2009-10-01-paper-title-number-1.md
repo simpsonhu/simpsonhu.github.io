@@ -2,7 +2,7 @@
 title: "Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting"
 collection: publications
 # permalink: /publication/2009-10-01-paper-title-number-1 
-excerpt: 'This paper presents a multiband metasurface-structured rectenna without using an impedance-matching network for wireless power transfer and energy harvesting applications.'
+
 date: 17 March 2024 - 22 March 2024
 venue: '2024 18th European Conference on Antennas and Propagation (EuCAP)'
 
