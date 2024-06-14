@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ I am/have been the principal investigator (PI) or co-investigator (CoI) of resea
 
 I have been co-chair of several IEEE International Workshops on Wireless Communications-Related Topics (2024 ICCCN, 2024 VTC-Fall, etc.). I have also been TPC for several IEEE conferences (WCNC, VTC, etc.) as well as a reviewer for Vehicular Communications Journals.
 
-## Education background
+## Education Background
 
 ### Ph.D. in Electronic and Electrical Engineering (10.2017-05.2022)
 * Department of Electronic and Electrical Engineering, The University of Sheffield, Sheffield, UK.
@@ -29,7 +29,7 @@ I have been co-chair of several IEEE International Workshops on Wireless Communi
 ### B.Eng. in Telecommunications Engineering (09.2011-06.2015)
 * Department of Electronic and Communications Engineering, Xiangtan University, Hunan, China.
 
-## Research interests
+## Research Interests
 
 I am interested in the broad area of Wireless Communications, including but not limited to:
 
@@ -49,7 +49,7 @@ I am interested in the broad area of Wireless Communications, including but not 
 * International-Level, Best Paper Award - the 2nd International Conference on Sensing, Measurement, Communication and Internet of Things Technologies (SMC-IoT 2023), (2023).
 * International-Level, the 2022 IEEE WCNC Student Travel Grant - the 2022 IEEE Wireless Communications and Networking Conference (WCNC), \textbf{flagship conference}, (2022).
 
-## Contact me
+## Contact Me
 
 Email-Liverpool: Bintao.Hu@liverpool.ac.uk
 
