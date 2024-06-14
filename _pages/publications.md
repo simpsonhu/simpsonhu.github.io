@@ -25,4 +25,13 @@ Conference Proceedings
 
 [C.2] B.Hu, J.Du & X.Chu (2022), [Enabling Low-latency Applications in Vehicular Networks Based on Mixed Fog/Cloud Computing Systems](https://ieeexplore.ieee.org/abstract/document/9771889). WCNC 2022 - 2022 IEEE Wireless Communications and Networking Conference (WCNC)(pp 722-727). Austin, TX, USA, 10 April 2022 - 13 April 2022.
 
+[C.3] B.Hu, M.Isaac, O.M.Akinola, H.Hafizh & W.Zhang (2023), [Enabling Low-latency Applications in Vehicular Networks Based on Mixed Fog/Cloud Computing Systems](https://ieeexplore.ieee.org/abstract/document/10201325). CCAI 2023 - 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI)(pp 336-341). Taiyuan, China, 26 May 2023 - 28 May 2023.
+
+[C.4] M.Isaac, O.M.Akinola & B.Hu (2023), [Predicting the Trajectory of AI Utilizing the Markov Model of Machine Learning](https://ieeexplore.ieee.org/abstract/document/10201251). CCAI 2023 - 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI)(pp 30-34). Taiyuan, China, 26 May 2023 - 28 May 2023.
+
+[C.5] M.Isaac, O.M.Akinola & B.Hu (2023), [Edge Intelligence-Based E-Health Wireless Sensor Network Systems](https://ieeexplore.ieee.org/abstract/document/10210225). ICIS 2023 - 2023 IEEE/ACIS 23rd International Conference on Computer and Information Science (ICIS)(pp 55-59). Wuxi, China, 23 June 2023 - 25 June 2023.
+
+
+
+
 [C.20] [Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting](http://ieeexplore.ieee.org/abstract/document/10501137). EuCAP 2024 - 2024 18th European Conference on Antennas and Propagation (EuCAP)(pp 1-4). Glasgow, UK, 17 March 2024 - 22 March 2024.
