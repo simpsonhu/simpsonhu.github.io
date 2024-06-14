@@ -1,5 +1,5 @@
 ---
-title: "Edge intelligence-based e-health wireless sensor network systems"
+title: "Edge Intelligence-Based E-Health Wireless Sensor Network Systems"
 collection: publications
 # permalink: /publication/2024-02-17-paper-title-number-5
 # excerpt: 'This paper is about fixing template issue #693.'
