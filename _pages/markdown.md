@@ -7,258 +7,42 @@ redirect_from:
   - /markdown.html
 ---
 
-## Professional & External Standing
+## Professional
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Member of the IEEE (2018-)
+* IEEE Young Professionals (2018-)
+* Member of the IET (2022-)
+* Member of The Chinese Institute of Electronics (CIE) (2023-)
+* Jiangsu Provincial Association of International Science and Technology Development (JPAISTD) Member (2024-)
+* PGCert - FHEA Pathway (in  process, only one module left to be passed)
 
-## Tips and hints
+## External Standing - Conference Organising Committees
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* **Co-Chair** of the Workshop 12 on "The Interplay between Digital Twins and 6G" Track for the IEEE 100th VTC2024-Fall Conference (**flagship conference** of the IEEE Vehicular Technology Society (VTS)), Washington, DC, USA, 07-10 Oct 2024.
+* **Co-Chair** of the Special Session on "Electromagnetic Energy Transmission and Harvesting for IoT Applications" Track for the 2024 IEEE International Symposium on Radio-Frequency Integration Technology (RFIT2024), Chengdu, China, 28-30 Aug 2024.
+* **Co-Chair** of the Workshop The 1st International Workshop on "Artificial Intelligence Empowered Communication and Networking (AIECN 2024)" Track for the 33rd IEEE International Conference on Computer Communications and Networks (ICCCN), Big Island, Hawaii, USA, 29-31 Jul 2024.
+* **Co-Chair** of the Workshop on "Research on Cost-Effective AI-Empowered Cloud/Edge Computing Deployment in V2X Communications" Track for the 1st International Symposium on Internet of Things and Smart Cities (ISITSC), Nanjing, China, 21-23 June 2024.
+* **Co-Chair** of the Workshop on "Research on Cost-Effective AI-Empowered Cloud/Edge Computing Deployment in Intelligent Manufacturing Scenarios" Track for the 2nd International Conference On Mobile Internet, Cloud Computing and Information Security (MICCIS), Changsha, China, 19-21 Apr 2024.
+* **Co-Chair** of the Workshop on "Integrated Sensing and Communication for 6G" Track for the 2nd International Conference on Sensing, Measurement, Communication and Internet of Things Technologies (SMC-IoT 2023), Changsha, China, 29-31 Dec 2023.
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+## External Standing - Conference Technical Program Committees
 
-## MathJax 
+* **TPC** for the 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), **flagship conference**, Washington, DC, USA, 07-10 Oct 2024.
+* **TPC** for the IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), **flagship conference**, Valencia, Spain, 2–5 Sep 2024.
+* **TPC** for the 2024 IEEE Wireless Communications and Networking Conference (WCNC), **flagship conference**, Dubai, UAE, 21-24 April 2024.
+* **TPC** for the 8th International Conference on Digital Signal Processing (ICDSP 2024), Hangzhou, China, 23-25 Feb 2024.
+* **TPC** for the 2023 IEEE 99th Vehicular Technology Conference (VTC2023-Fall), **flagship conference**, Hongkong, 10-13 Oct 2023.
 
-Support for MathJax Version 3.0 is included in the template:
+## External Standing - Conference Session Chair
 
-$$
-\displaylines{
-\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
-\nabla \cdot B=0 \\\
-\nabla \times E= -\partial_tB \\\
-\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
-}
-$$
+* **Session Chair** of the Session on "Session 14 Communication System and Network Model" for the 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI), Taiyuan, China, 26-28 May 2023.
 
-The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
+## External Standing - Reviewer for Journals
 
-**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
+* **Reviewer** for the Vehicular Communications (Elsevier, JCR Q1).
 
-## Markdown guide
+## External Standing - Reviewer for Conferences
 
-Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-Basic notices or call-outs are supported using the following syntax:
-
-```markdown
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
-```
-
-which wil render as:
-
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
-
-### Footnotes
-
-Footnotes can be useful for clarifying points in the text, or citing information.[^1] Markdown support numeric footnotes, as well as text as long as the values are unique.[^note]
-
-```markdown
-This is the regular text.[^1] This is more regular text.[^note]
-
-[^1]: This is the footnote itself.
-[^note]: This is another footnote.
-```
-
-[^1]: Such as this footnote.
-[^note]: When using text for footnotes markers, no spaces are permitted in the name.
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
-
-```python
-print('Hello World!')
-```
-
-or R:
-
-```R
-print("Hello World!", quote = FALSE)
-```
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
-
-***
-**Footnotes**
-
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
-
+* **Reviewer** for the 2023 IEEE 99th Vehicular Technology Conference (VTC2023-Fall), **flagship conference**, Hongkong, 10-13 Oct 2023.
+* **Reviewer** for the 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI), Taiyuan, China, 26-28 May 2023.
+* **Reviewer** for the 2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall), **flagship conference**, Honolulu, Hawaii, USA, 22-25 Sep 2019.
