@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Development of a Federated Learning-Based Edge Intelligence Framework for IoT Network Systems"
+excerpt: "The intelligent services and applications of the Internet of Things (IoT), empowered by traditional Artificial Intelligence (AI) techniques, have permeated various aspects of our lives, such as smart healthcare, smart transportation, and smart city initiatives. However, the widespread deployment of these applications and services is expected to result in a massive growth of IoT data at the network edge. Offloading all of this IoT data to remote servers is impractical due to constraints on network resources, potential latency issues, and privacy concerns. Consequently, a distributed collaborative AI approach, specifically Federated Learning (FL), is essential for the development of a framework that can enable multiple intelligent IoT applications. This framework would allow for AI training on distributed IoT devices without the need for data sharing. In this research project, we aim to investigate the development of an FL-based edge intelligence framework that can analyze the potential of FL for enabling a wide range of IoT services. We also plan to provide useful insights and recommendations for various key IoT applications, including smart healthcare, smart transportation, and drone technology."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
