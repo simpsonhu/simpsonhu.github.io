@@ -17,3 +17,4 @@ author_profile: true
 
 Journal Papers
 ======
+[J.1] Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting.
