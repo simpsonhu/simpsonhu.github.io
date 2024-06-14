@@ -21,4 +21,4 @@ Contact me
 
 Email-Liverpool:Bintao.Hu@liverpool.ac.uk
 
-Email-XJTLU:Bintao.Hu@xjtlu.edu.cn or 
+Email-XJTLU:Bintao.Hu@xjtlu.edu.cn
