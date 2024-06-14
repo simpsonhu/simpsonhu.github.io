@@ -15,10 +15,10 @@ I am/have been the principal investigator (PI) or co-investigator (CoI) of resea
 
 I have been co-chair of several IEEE International Workshops on Wireless Communications-Related Topics (2024 ICCCN, 2024 VTC-Fall, etc.). I have also been TPC for several IEEE conferences (WCNC, VTC, etc.) as well as a reviewer for Vehicular Communications Journals.
 
-Email-XJTLU:[Email](mailto:Bintao.Hu@xjtlu.edu.cn) or Email-Liverpool:[Email](mailto:Bintao.Hu@liverpool.ac.uk)
 
----
-permalink: /
-title: "Education me"
+Contact me
+======
 
+Email-Liverpool:Bintao.Hu@liverpool.ac.uk
 
+Email-XJTLU:Bintao.Hu@xjtlu.edu.cn or 
