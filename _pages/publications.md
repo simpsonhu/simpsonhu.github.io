@@ -16,10 +16,10 @@ author_profile: true
 {% endfor %}
 
 ## Journal Papers
-======
+
 
 ## Conference Proceedings
-======
+
 
 [C.1] **B.Hu** & X.Chu (2021), [Social-aware resource allocation for vehicle-to-everything communications underlaying cellular networks](https://ieeexplore.ieee.org/abstract/document/9448929). VTC2021-Spring 2021 - 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring)(pp 1-6). Helsinki, Finland, 25 April 2021 - 28 April 2021.
 
