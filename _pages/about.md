@@ -18,7 +18,7 @@ I have been co-chair of several IEEE International Workshops on Wireless Communi
 Email-XJTLU:[Email](mailto:Bintao.Hu@xjtlu.edu.cn) or Email-Liverpool:[Email](mailto:Bintao.Hu@liverpool.ac.uk)
 
 ---
-
-Education me
+permalink: /
+title: "Education me"
 
 
