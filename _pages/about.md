@@ -2,7 +2,10 @@
 permalink: /
 title: "About me"
 author_profile: true
-
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I received the B.Eng. in Telecommunication Engineering from Xiangtan University, China, in 2015, and the M.Sc. and Ph.D. degrees in Data Communications and in Electrical and Electronic Engineering from the University of Sheffield, UK, in 2017 and 2022, respectively. In 2022, I joined the School of Internet of Things (IoT) of Xi'an Jiaotong-Liverpool University (XJTLU), China, as an Assistant Professor.  
 
@@ -16,7 +19,4 @@ Email-XJTLU:[Email](mailto:Bintao.Hu@xjtlu.edu.cn) or Email-Liverpool:[Email](ma
 
 title: "Education me"
 
-redirect_from: 
-  - /about/
-  - /about.html
----
+
