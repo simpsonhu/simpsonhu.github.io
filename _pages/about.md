@@ -34,10 +34,10 @@ I have been co-chair of several IEEE International Workshops on Wireless Communi
 I am interested in the broad area of Wireless Communications, including but not limited to:
 
 * 5G/6G enabling technologies: network architecture, resource allocation, and interface and transmission technologies;
-* Integrated Sensing and Communications.
-* Space-Air-Ground-Sea Integrated Networks.
-* Wireless networked control of mobile robotic objects: autonomous driving, and IoT industry automation
-* Cloud/edge/fog/device-computing assisted radio access networks
+* Integrated Sensing and Communications;
+* Space-Air-Ground-Sea Integrated Networks;
+* Wireless networked control of mobile robotic objects: autonomous driving, and IoT industry automation;
+* Cloud/edge/fog/device-computing assisted radio access networks;
 * U2X/V2X/D2D Communications.
 
 ## Awards and Honours
@@ -51,6 +51,6 @@ I am interested in the broad area of Wireless Communications, including but not 
 
 ## Contact me
 
-Email-Liverpool:Bintao.Hu@liverpool.ac.uk
+Email-Liverpool: Bintao.Hu@liverpool.ac.uk
 
-Email-XJTLU:Bintao.Hu@xjtlu.edu.cn
+Email-XJTLU: Bintao.Hu@xjtlu.edu.cn
