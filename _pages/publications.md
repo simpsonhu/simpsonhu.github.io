@@ -37,7 +37,16 @@ Conference Proceedings
 
 [C.8] C.Guo, B.Hu*, W.Zhang, Y.Gao & H.Liu (2023), [IoT-Based Edge Computing and Image Processing for Occupancy Detection](https://ieeexplore.ieee.org/abstract/document/10393844). ICICN 2023 - 2023 IEEE 11th International Conference on Information, Communication and Networks (ICICN)(pp 385-390). Xi'an, China, 17 August 2023 - 20 August 2023.
 
+[C.9] A.P.A.Majeed, M.Ateeq, B.Hu, W.H.M.Isa, Z.Omar & W.Chen (2023), [Feature-Based Transfer Learning for IoT-Enabled Defect Detection for Quality Control in Industrial Manufacturing Processes: A DenseNet Evaluation](https://link.springer.com/chapter/10.1007/978-981-99-8498-5_36). ICIMR 2023 - The International Conference on Intelligent Manufacturing and Robotics (ICIMR)(pp 443–449). Suzhou, China, 22 August 2023 - 23 August 2023.
 
+[C.10] Q.Gong, H.Hafizh, M.Ateeq, A.P.A.Majeed, M.Isaac & B.Hu (2023), [Machine Learning Regression Models for Real-Time Touchless Interaction Applications](https://ieeexplore.ieee.org/abstract/document/10256278). ICSECS 2023 - 2023 IEEE 8th International Conference On Software Engineering and Computer Systems (ICSECS)(pp 181-186). Penang, Malaysia, 25 August 2023 - 27 August 2023.
 
+[C.11] B.Hu, Y.Gao, W.Zhang, D.Jia & H.Liu (2023), [Computation Offloading and Resource Allocation in IoT-Based Mobile Edge Computing Systems](https://ieeexplore.ieee.org/abstract/document/10256278). SmartIoT 2023 - 2023 IEEE International Conference on Smart Internet of Things (SmartIoT)(pp 119-123). Xining, China, 25 August 2023 - 27 August 2023.
+
+[C.12] B.Hu, Y.Gao, W.Zhang, D.Jia & H.Liu (2023), [Computation Offloading and Resource Allocation in IoT-Based Mobile Edge Computing Systems](https://ieeexplore.ieee.org/abstract/document/10296246). SmartIoT 2023 - 2023 IEEE International Conference on Smart Internet of Things (SmartIoT)(pp 119-123). Xining, China, 25 August 2023 - 27 August 2023.
+
+[C.13] Y.Shuai, N.Xin, M.M.Hasan, B.Hu, T.Dai & H.Liu (2023), [Application of IMVR Convolutional Neural Networks to Classification of Land Use Remote Sensing Datasets](https://ieeexplore.ieee.org/abstract/document/10438746). CyberC 2023 - 2023 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC)(pp 27-31). Jiangsu, China, 02 November 2023 - 04 November 2023.
+
+[C.14] W.Zhang, M.Isaac, J.Wang, E.G.Lim, R.Pei, **B.Hu* ** (2023), [Negative and Near-Zero Permeability Metamaterials for Efficiency Improvement in Wireless Power Transfer System](https://ieeexplore.ieee.org/abstract/document/10469935). APCAP 2023 - 2023 IEEE 11th Asia-Pacific Conference on Antennas and Propagation (APCAP)(pp 1-2). Guangzhou, China, 22 November 2023 - 24 November 2023.
 
 [C.20] [Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting](http://ieeexplore.ieee.org/abstract/document/10501137). EuCAP 2024 - 2024 18th European Conference on Antennas and Propagation (EuCAP)(pp 1-4). Glasgow, UK, 17 March 2024 - 22 March 2024.
