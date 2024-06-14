@@ -22,11 +22,11 @@ I have been co-chair of several IEEE International Workshops on Wireless Communi
 * Title of thesis: Resource Allocation Optimisation for Vehicle-to-Everything Communications Underlaying Cellular Networks.
 * Supervisors: [Prof.Xiaoli Chu](https://www.sheffield.ac.uk/eee/people/academic-staff/xiaoli-chu) and [Prof.Jie Zhang](https://www.sheffield.ac.uk/eee/people/academic-staff/jie-zhang)
 
-* ### M.Sc. in Data Communications Engineering (09.2016-10.2017)
+### M.Sc. in Data Communications Engineering (09.2016-10.2017)
 * Department of Electronic and Electrical Engineering, The University of Sheffield, Sheffield, UK.
 * Supervisor: [Prof.Jie Zhang](https://www.sheffield.ac.uk/eee/people/academic-staff/jie-zhang)
 
-* ### B.Eng. in Telecommunications Engineering (09.2011-06.2015)
+### B.Eng. in Telecommunications Engineering (09.2011-06.2015)
 * Department of Electronic and Communications Engineering, Xiangtan University, Hunan, China.
 
 ## Research interests
