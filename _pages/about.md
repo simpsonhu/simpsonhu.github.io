@@ -13,7 +13,7 @@ My research interests are in wireless communication systems, with special emphas
 
 I am/have been the principal investigator (PI) or co-investigator (CoI) of research projects competitively funded in wireless communications-related topics. I have also been involved in European-funded projects as a PhD researcher during my PhD studies.  
 
-I have been co-chair of several IEEE International Workshops on Wireless Communications-Related Topics (2024 ICCCN, 2024 VTC-Fall, etc.). I have also been TPC for several IEEE conferences (WCNC, VTC, etc.) as well as a reviewer for Vehicular Communications Journals.
+I have been co-chair of several IEEE International Workshops on Wireless Communications-Related Topics (2024 ICCCN, 2024 VTC-Fall, etc.). I have also been TPC for several IEEE conferences (WCNC, VTC, PIMRC, etc.) as well as a reviewer for Vehicular Communications Journals.
 
 ## Education Background
 
