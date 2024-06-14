@@ -47,6 +47,6 @@ Conference Proceedings
 
 [C.13] Y.Shuai, N.Xin, M.M.Hasan, B.Hu, T.Dai & H.Liu (2023), [Application of IMVR Convolutional Neural Networks to Classification of Land Use Remote Sensing Datasets](https://ieeexplore.ieee.org/abstract/document/10438746). CyberC 2023 - 2023 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC)(pp 27-31). Jiangsu, China, 02 November 2023 - 04 November 2023.
 
-[C.14] W.Zhang, M.Isaac, J.Wang, E.G.Lim, R.Pei, **B.Hu* ** (2023), [Negative and Near-Zero Permeability Metamaterials for Efficiency Improvement in Wireless Power Transfer System](https://ieeexplore.ieee.org/abstract/document/10469935). APCAP 2023 - 2023 IEEE 11th Asia-Pacific Conference on Antennas and Propagation (APCAP)(pp 1-2). Guangzhou, China, 22 November 2023 - 24 November 2023.
+[C.14] W.Zhang, M.Isaac, J.Wang, E.G.Lim, R.Pei, **B.Hu*** (2023), [Negative and Near-Zero Permeability Metamaterials for Efficiency Improvement in Wireless Power Transfer System](https://ieeexplore.ieee.org/abstract/document/10469935). APCAP 2023 - 2023 IEEE 11th Asia-Pacific Conference on Antennas and Propagation (APCAP)(pp 1-2). Guangzhou, China, 22 November 2023 - 24 November 2023.
 
 [C.20] [Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting](http://ieeexplore.ieee.org/abstract/document/10501137). EuCAP 2024 - 2024 18th European Conference on Antennas and Propagation (EuCAP)(pp 1-4). Glasgow, UK, 17 March 2024 - 22 March 2024.
