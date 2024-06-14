@@ -21,4 +21,4 @@ Journal Papers
 Conference Proceedings
 ======
 
-[C.1] Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting. paperurl: '[http://ieeexplore.ieee.org/abstract/document/10501137'.
+[C.1] Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting. <div class="wordwrap">You can also find my articles on <a href="{{http://ieeexplore.ieee.org/abstract/document/10501137}}">my Google Scholar profile</a>.</div>.
