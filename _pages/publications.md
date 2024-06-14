@@ -21,4 +21,4 @@ Journal Papers
 Conference Proceedings
 ======
 
-[C.1] Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting. <div class="wordwrap"> <a href="{{http://ieeexplore.ieee.org/abstract/document/10501137}}"></a>.</div>.
+[C.1] Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting. EuCAP 2024 - 2024 18th European Conference on Antennas and Propagation (EuCAP)(pp 1-4). Glasgow, UK, 17 March 2024 - 22 March 2024.
