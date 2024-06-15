@@ -48,6 +48,7 @@ I am interested in the broad area of Wireless Communications, including but not 
 
 * National-Level, The 1st XJTLU Innovative Cases of Industry Education Integrated Curriculum Competition - Third Prize (2024).
 * University-Level, XJTLU-IoT - Internationalisation Award (2023-2024).
+* Provincial-Level, 2023 Jiangsu Shuangchuang PhD Talent (2023).
 * International-Level, Best Oral Presentation Award - the 2023 IEEE/ACIS 23rd International Conference on Computer and Information Science (ICIS), (2023).
 * International-Level, Best Workshop Organisation Award - the 2nd International Conference on Sensing, Measurement, Communication and Internet of Things Technologies (SMC-IoT 2023), (2023).
 * International-Level, Best Paper Award - the 2nd International Conference on Sensing, Measurement, Communication and Internet of Things Technologies (SMC-IoT 2023), (2023).
