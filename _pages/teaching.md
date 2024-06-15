@@ -13,7 +13,7 @@ author_profile: true
 
 ## Teaching
 
-### Xi'an Jiaotong-Liverpool University (XJTLU) - Assistant Professor (09.2022.09)
+### Xi'an Jiaotong-Liverpool University (XJTLU) - Assistant Professor (09.2022-)
 
 * (Code) Name: IOT001 Fundamentals of Internet of Things
 * (Code) Name: IOT103TC Computer Architecture and Operating System
