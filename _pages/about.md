@@ -42,7 +42,7 @@ I am interested in the broad area of Wireless Communications, including but not 
 
 ## Working Experience
 
-Assistant Professor (09.2022-), School of Internet of Things, Xi'an Jiaotong-Liverpool University, Suzhou, China.
+* Assistant Professor (09.2022-), School of Internet of Things, Xi'an Jiaotong-Liverpool University, Suzhou, China.
 
 ## Awards and Honours
 
