@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching & Supervising"
+title: "Working & Teaching"
 permalink: /teaching/
 author_profile: true
 ---
@@ -10,6 +10,19 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Working
+
+### Xi'an Jiaotong-Liverpool University (XJTLU) - Assistant Professor (09.2022-)
+
+* BEng Internet of Things Engineering Undergraduate Program Director (PD) (04.2024-)
+* Student Recruiter Team - Academic Staff as Discipline Expert (10.2023-)
+* Year 1 Syntegrative Education Committee Member (10.2023-)
+* IoT School UG Student-Staff Liaison Committee Deputy Chair (10.2022-04.2024)
+* IoT School Faculty Peer Reviewer Coordinator (10.2022–10.2023)
+* Principle Contributor - Leading the Memorandum of Understanding Project, between UNIVERSITI TEKNOLOGI
+MARA and XI’AN JIAOTONG-LIVERPOOL UNIVERSITY on Friendship and Cooperation, Promotion of Mutual
+Understanding, Academic, Cultural and Scientific Thought, and Personal Exchange. (Under the final process, 03.2023-)
 
 ## Teaching
 
