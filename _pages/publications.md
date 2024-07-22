@@ -15,7 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## Journals
 
+[J.1] **B.Hu**, W.Zhang, Y.Gao, J.Du & X.Chu (2024), [Multi-Agent Deep Deterministic Policy Gradient-Based Computation Offloading and Resource Allocation for ISAC-Aided 6G V2X Networks]. IEEE Internet of Things Journal. (Accepted)
 
 
 ## Conference Proceedings
