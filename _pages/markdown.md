@@ -35,14 +35,21 @@ redirect_from:
 
 ## External Standing - Conference Session Chair
 
+* **Session Chair** of the Session on "Session AIECN - International Workshop on Artificial Intelligence Empowered Communication and Networking" for the 2024 IEEE 33rd International Conference on Computer Communications and Networks (ICCCN 2024), Big Island, Hawaii, USA, 29-31 July 2024.
 * **Session Chair** of the Session on "Session 14 Communication System and Network Model" for the 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI), Taiyuan, China, 26-28 May 2023.
 
 ## External Standing - Reviewer for Journals
 
+* **Reviewer** for the IEEE Transactions on Network Science and Engineering (JCR Q1).
 * **Reviewer** for the Vehicular Communications (Elsevier, JCR Q1).
 
 ## External Standing - Reviewer for Conferences
 
+* **Reviewer** for the 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), **flagship conference**, Washington DC, 07-10 Oct 2024.
+* **Reviewer** for the IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), **flagship conference**, Valencia, Spain, 2–5 Sep 2024.
+* **Reviewer** for the 33rd IEEE International Conference on Computer Communications and Networks (ICCCN), Big Island, Hawaii, USA, 29-31 Jul 2024.
+* **Reviewer** for the 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), **flagship conference**, Singapore, 24-27 June 2024.
+* **Reviewer** for the 2024 IEEE Wireless Communications and Networking Conference (WCNC), **flagship conference**, Dubai, UAE, 21-24 April 2024.
 * **Reviewer** for the 2023 IEEE 99th Vehicular Technology Conference (VTC2023-Fall), **flagship conference**, Hongkong, 10-13 Oct 2023.
 * **Reviewer** for the 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI), Taiyuan, China, 26-28 May 2023.
 * **Reviewer** for the 2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall), **flagship conference**, Honolulu, Hawaii, USA, 22-25 Sep 2019.
