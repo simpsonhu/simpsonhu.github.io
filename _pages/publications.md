@@ -58,3 +58,5 @@ author_profile: true
 [C.17] M.Isaac, M.Ateeq, H.Hafizh, **B.Hu*** & D.Shodipo (2023), [Leveraging Artificial Intelligence with Zone of Proximal Development: An ARCS Motivational E-Learning Model](https://ieeexplore.ieee.org/abstract/document/10398344). TALE 2023 - 2023 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)(pp 1-8). Auckland, New Zealand, 28 November 2023 - 01 December 2023.
 
 [C.18] W.Zhang, R.Pei, J.hang, **B.Hu**, J.Zhou (2024), [Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting](http://ieeexplore.ieee.org/abstract/document/10501137). EuCAP 2024 - 2024 18th European Conference on Antennas and Propagation (EuCAP)(pp 1-4). Glasgow, UK, 17 March 2024 - 22 March 2024.
+
+[C.19] Y.Gao, X.Xu, **B.Hu**, J.Du, W.Yang, Y.Jin (2024), [Channel Estimation for MIMO-OTFS Satellite Communication: a Deep Learning-Based Approach](https://ieeexplore.ieee.org/document/10637519). ICCCN 2024 - 2024 33rd International Conference on Computer Communications and Networks (ICCCN) (pp 1-6). Kailua-Kona, HI, USA, 29 July 2024 - 31 July 2024.
