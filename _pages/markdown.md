@@ -14,7 +14,7 @@ redirect_from:
 * Member of the IET (2022-)
 * Member of The Chinese Institute of Electronics (CIE) (2023-)
 * Jiangsu Provincial Association of International Science and Technology Development (JPAISTD) Member (2024-)
-* PGCert - FHEA Pathway (in  process, only one module left to be passed)
+* PGCert - HEA Fellowship (FHEA) (2024-)
 
 ## External Standing - Conference Organising Committees
 
