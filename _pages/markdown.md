@@ -27,6 +27,7 @@ redirect_from:
 
 ## External Standing - Conference Technical Program Committees
 
+* **TPC** for the 2025 IEEE Wireless Communications and Networking Conference (WCNC), **flagship conference**, Milan, Italy, 24-27 March 2025.
 * **TPC** for the 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), **flagship conference**, Washington, DC, USA, 07-10 Oct 2024.
 * **TPC** for the IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), **flagship conference**, Valencia, Spain, 2–5 Sep 2024.
 * **TPC** for the 2024 IEEE Wireless Communications and Networking Conference (WCNC), **flagship conference**, Dubai, UAE, 21-24 April 2024.
