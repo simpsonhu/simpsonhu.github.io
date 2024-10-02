@@ -14,7 +14,7 @@ redirect_from:
 * Member of the IET (2022-)
 * Member of The Chinese Institute of Electronics (CIE) (2023-)
 * Jiangsu Provincial Association of International Science and Technology Development (JPAISTD) Member (2024-)
-* PGCert - HEA Fellowship (FHEA) (2024-)
+* PGCert - Fellowship of HEA (FHEA) (2024-)
 
 ## External Standing - Conference Organising Committees
 
@@ -43,6 +43,8 @@ redirect_from:
 
 * **Reviewer** for the IEEE Transactions on Network Science and Engineering (JCR Q1).
 * **Reviewer** for the Vehicular Communications (Elsevier, JCR Q1).
+* **Reviewer** for the IEEE Access (JCR Q2).
+* **Reviewer** for the ACM Transactions on Sensor Networks (ACM, JCR Q2).
 
 ## External Standing - Reviewer for Conferences
 
