@@ -15,9 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## Books & Chapters
+
+[B.1] S.Khatoon, A.Mahmood, T.Akhtar, **B.Hu** (2024), [Chapter 13 - Environmental Sustainability Through Optimal Energy Consumption Using IoT-Based Edge-Computing and Image Processing](https://www.igi-global.com/book/exploring-pillars-sustainability-modern-age/341585). Exploring Pillars of Sustainability for Modern Age Improvements. Oct 2024.
+
 ## Journals
 
-[J.1] **B.Hu**, W.Zhang, Y.Gao, J.Du & X.Chu (2024), [Multi-Agent Deep Deterministic Policy Gradient-Based Computation Offloading and Resource Allocation for ISAC-Aided 6G V2X Networks](https://ieeexplore.ieee.org/abstract/document/10606449). IEEE Internet of Things Journal. (Early Access), 2024.
+[J.1] **B.Hu**, W.Zhang, Y.Gao, J.Du & X.Chu (2024), [Multi-Agent Deep Deterministic Policy Gradient-Based Computation Offloading and Resource Allocation for ISAC-Aided 6G V2X Networks](https://ieeexplore.ieee.org/abstract/document/10606449). IEEE Internet of Things Journal. vol.11, no.20, pp 33890 - 33902, 2024.
 
 
 ## Conference Proceedings
