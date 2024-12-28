@@ -17,6 +17,8 @@ author_profile: true
 
 ## PI (¥313，000) - Research on AI-Empowered Optimisation Scheme for Edge Intelligent IRS-Aided Space-Air-Ground Integrated Network (12.2024-12.2028)
 
+## CoI (¥1,000，000) - Research on Intelligent Connected Cooperative Driving Based on Hybrid Twin Technology in Complex Traffic Scenarios (11.2024-10.2027)
+
 ## CoI (¥100，000) - Metasurface-Based Wirelessly Powered Devices for Green Smart City Application (07.2023-06.2025)
 
 ## CoI (¥100，000) - Multi-Sensor Fusion to Develop Perception and Detection System for Real-Time Vehicle-to-Vehicle (V2V) Communication Platform (07.2023-06.2025)
