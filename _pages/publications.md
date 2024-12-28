@@ -63,7 +63,7 @@ author_profile: true
  
 [C.18] W.Zhang, R.Pei, J.Zhang, **B.Hu**, J.Zhou (2024), [Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting](http://ieeexplore.ieee.org/abstract/document/10501137). EuCAP 2024 - 2024 18th European Conference on Antennas and Propagation (EuCAP) (pp 1-4). Glasgow, UK, 17 March 2024 - 22 March 2024.
 
-[C.19] W.Zhang, C.Xu, J.Zhang, J.Wang, R..Pei & **B.Hu** (2024), [Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting](https://ieeexplore.ieee.org/abstract/document/10713696). IWS 2024 - 2024 IEEE MTT-S International Wireless Symposium (IWS) (pp 1-4). Beijing, China, 16 May 2024 - 19 May 2024.
+[C.19] W.Zhang, C.Xu, J.Zhang, J.Wang, R.Pei & **B.Hu*** (2024), [Matching Network Elimination in Multiband Metasurface-Structured Rectennas for Wireless Power Transfer and Energy Harvesting](https://ieeexplore.ieee.org/abstract/document/10713696). IWS 2024 - 2024 IEEE MTT-S International Wireless Symposium (IWS) (pp 1-4). Beijing, China, 16 May 2024 - 19 May 2024.
 
 [C.20] Y.Gao, X.Xu, **B.Hu**, J.Du, W.Yang, Y.Jin (2024), [Channel Estimation for MIMO-OTFS Satellite Communication: a Deep Learning-Based Approach](https://ieeexplore.ieee.org/document/10637519). ICCCN 2024 - 2024 33rd International Conference on Computer Communications and Networks (ICCCN) (pp 1-6). Kailua-Kona, HI, USA, 29 July 2024 - 31 July 2024.
 
