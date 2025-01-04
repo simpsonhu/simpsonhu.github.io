@@ -50,6 +50,7 @@ redirect_from:
 ## External Standing - Reviewer for Conferences
 
 * **Reviewer** for the 2025 IEEE 5th International Conference on Computer Communication and Artificial Intelligence (CCAI), Haikou, China 23-25 May 2025.
+* **Reviewer** for the 2025 IEEE Wireless Communications and Networking Conference (WCNC), **flagship conference**, Milan, Italy, 24-27 March 2025.
 * **Reviewer** for the 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), **flagship conference**, Washington DC, USA, 07-10 Oct 2024.
 * **Reviewer** for the IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), **flagship conference**, Valencia, Spain, 2–5 Sep 2024.
 * **Reviewer** for the 33rd IEEE International Conference on Computer Communications and Networks (ICCCN), Big Island, Hawaii, USA, 29-31 Jul 2024.
