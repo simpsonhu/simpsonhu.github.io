@@ -76,3 +76,9 @@ author_profile: true
 [C.23] **B.Hu**, W.Zhang, S.A.Rubaye, H.Zhang, X.Wang & Y.Huang (2024), [Digital Twin-Empowered Offloading Optimisation and Resource Allocation for UAV-Assisted IoT Network Systems](https://ieeexplore.ieee.org/abstract/document/10757686). VTC2024-Fall 2024 - 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall) (pp 1-6). Washington, DC, USA, 07 October 2024 - 10 October 2024.
 
 [C.24] Y.Zhang, **B.Hu**, W.Zhang, M.M.Hasan, & H.Liu (2024), [Improved Detection of Forged and Generated Facial Images Based on ResNet-50](https://ieeexplore.ieee.org/abstract/document/10771480). CyberC 2024 - 2024 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC) (pp 199-205). Guangzhou, China, 24 October 2024 - 26 October 2024.
+
+[C.25] M.K.Goonjur, Z.Wang, M.Isaac, H.Liu, S.Huang, & **B.Hu*** (2024), [Federated Learning-Empowered Resource Allocation Optimisation for E-Health IoT System](https://ieeexplore.ieee.org/document/10812439). RFIT 2024 - 2024 IEEE International Symposium on Radio-Frequency Integration Technology (RFIT) (pp 1-3). Chengdu, China, 28 August 2024 - 30 August 2024.
+
+[C.26] M.Qi, Z.Liu, M.Isaac, J.Wang, **B.Hu** & W.Zhang (2024), [Compact IoT Wireless Charging System with Impedance Matching Elimination](https://ieeexplore.ieee.org/document/10812403). RFIT 2024 - 2024 IEEE International Symposium on Radio-Frequency Integration Technology (RFIT) (pp 1-3). Chengdu, China, 28 August 2024 - 30 August 2024.
+
+[C.27] Y.Jin, C.Shao, Y.Wang, **B.Hu**, H.Hu & Y.Gao (2024), [Impact of Device Placement on Non-Contact Respiratory Monitoring Using Channel State Information](https://ieeexplore.ieee.org/document/10809096). ICICSP 2024 - 2024 7th International Conference on Information Communication and Signal Processing (ICICSP) (pp 1169-1174). Zhoushan, China, 21 September 2024 - 23 September 2024.
