@@ -18,6 +18,7 @@ redirect_from:
 
 ## External Standing - Conference Organising Committees
 
+* **Co-Chair** of the Workshop The 2nd International Workshop on "Artificial Intelligence Empowered Communication and Networking (AIECN 2025)" Track for the 34th IEEE International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, 04-07 Aug 2025.
 * **Co-Chair** of the Workshop 12 on "The Interplay between Digital Twins and 6G" Track for the IEEE 100th VTC2024-Fall Conference (**flagship conference** of the IEEE Vehicular Technology Society (VTS)), Washington, DC, USA, 07-10 Oct 2024.
 * **Co-Chair** of the Special Session on "Electromagnetic Energy Transmission and Harvesting for IoT Applications" Track for the 2024 IEEE International Symposium on Radio-Frequency Integration Technology (RFIT2024), Chengdu, China, 28-30 Aug 2024.
 * **Co-Chair** of the Workshop The 1st International Workshop on "Artificial Intelligence Empowered Communication and Networking (AIECN 2024)" Track for the 33rd IEEE International Conference on Computer Communications and Networks (ICCCN), Big Island, Hawaii, USA, 29-31 Jul 2024.
@@ -48,7 +49,8 @@ redirect_from:
 
 ## External Standing - Reviewer for Conferences
 
-* **Reviewer** for the 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), **flagship conference**, Washington DC, 07-10 Oct 2024.
+* **Reviewer** for the 2025 IEEE 5th International Conference on Computer Communication and Artificial Intelligence (CCAI), Haikou, China 23-25 May 2025.
+* **Reviewer** for the 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), **flagship conference**, Washington DC, USA, 07-10 Oct 2024.
 * **Reviewer** for the IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), **flagship conference**, Valencia, Spain, 2–5 Sep 2024.
 * **Reviewer** for the 33rd IEEE International Conference on Computer Communications and Networks (ICCCN), Big Island, Hawaii, USA, 29-31 Jul 2024.
 * **Reviewer** for the 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), **flagship conference**, Singapore, 24-27 June 2024.
