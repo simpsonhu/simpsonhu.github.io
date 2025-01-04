@@ -21,9 +21,9 @@ author_profile: true
 
 ## Journals
 
-[J.1] **B.Hu***, W.Zhang, Y.Gao, J.Du & X.Chu (2024), [Multi-Agent Deep Deterministic Policy Gradient-Based Computation Offloading and Resource Allocation for ISAC-Aided 6G V2X Networks](https://ieeexplore.ieee.org/abstract/document/10606449). IEEE Internet of Things Journal. vol.11, no.20, pp 33890 - 33902, 2024.
+[J.1] **B.Hu***, W.Zhang, Y.Gao, J.Du & X.Chu (2024), [Multi-Agent Deep Deterministic Policy Gradient-Based Computation Offloading and Resource Allocation for ISAC-Aided 6G V2X Networks](https://ieeexplore.ieee.org/abstract/document/10606449). IEEE Internet of Things Journal. vol.11, no.20, pp 33890 - 33902, 2024. (Q1/中科院一区Top, IF=8.2)
 
-[J.2] J.Du, Z.Yu, S.Li, **B.Hu**, Y.Gao & X.Chu (2025), [Blockchain and Digital Twin Empowered Edge Caching for D2D Wireless Networks](https://www.sciencedirect.com/science/article/pii/S0167739X2400668X). Future Generation Computer Systems. 2025.
+[J.2] J.Du, Z.Yu, S.Li, **B.Hu**, Y.Gao & X.Chu (2025), [Blockchain and Digital Twin Empowered Edge Caching for D2D Wireless Networks](https://www.sciencedirect.com/science/article/pii/S0167739X2400668X). Future Generation Computer Systems. 2025. (Q1/中科院二区Top, IF=6.2)
 
 
 ## Conference Proceedings
