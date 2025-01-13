@@ -19,6 +19,8 @@ redirect_from:
 ## External Standing - Conference Organising Committees
 
 * **Co-Chair** of the Workshop The 2nd International Workshop on "Artificial Intelligence Empowered Communication and Networking (AIECN 2025)" Track for the 34th IEEE International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, 04-07 Aug 2025.
+* **Co-Chair** of the Workshop on "Space-Air-Ground-Sea Integrated Sensing, Computing, and Communications For 6G IoT" Track for the IEEE 101st VTC2025-Spring Conference (**flagship conference** of the IEEE Vehicular Technology Society (VTS)), Oslo, Norway, 17-20 June 2025.
+* **Co-Chair** of the Workshop on "Artificial Intelligence-Empowered Low-Altitude Economy Network and Information Security" Track for the 3rd International Conference On  Mobile Internet, Cloud Computing and Information Security (MICCIS 2025), Dongguan, China, 11-14 April 2025.
 * **Co-Chair** of the Workshop 12 on "The Interplay between Digital Twins and 6G" Track for the IEEE 100th VTC2024-Fall Conference (**flagship conference** of the IEEE Vehicular Technology Society (VTS)), Washington, DC, USA, 07-10 Oct 2024.
 * **Co-Chair** of the Special Session on "Electromagnetic Energy Transmission and Harvesting for IoT Applications" Track for the 2024 IEEE International Symposium on Radio-Frequency Integration Technology (RFIT2024), Chengdu, China, 28-30 Aug 2024.
 * **Co-Chair** of the Workshop The 1st International Workshop on "Artificial Intelligence Empowered Communication and Networking (AIECN 2024)" Track for the 33rd IEEE International Conference on Computer Communications and Networks (ICCCN), Big Island, Hawaii, USA, 29-31 Jul 2024.
@@ -44,6 +46,7 @@ redirect_from:
 
 * **Reviewer** for the IEEE Transactions on Network Science and Engineering (JCR Q1).
 * **Reviewer** for the Vehicular Communications (Elsevier, JCR Q1).
+* **Reviewer** for the Computer Communications (Elsevier, JCR Q1).
 * **Reviewer** for the IEEE Access (JCR Q2).
 * **Reviewer** for the ACM Transactions on Sensor Networks (ACM, JCR Q2).
 
