@@ -30,9 +30,11 @@ redirect_from:
 
 ## External Standing - Conference Technical Program Committees
 
+* **TPC** for the 2025 IEEE International Conference on Machine Learning for Communication and Networking (IEEE ICMLCN), **flagship conference**, Barcelona, Spain, 26–29 May 2025.
+* **TPC** for the 2025 IEEE 5th International Conference on Computer Communication and Artificial Intelligence (CCAI), Haikou, China 23-25 May 2025.
 * **TPC** for the 2025 IEEE Wireless Communications and Networking Conference (WCNC), **flagship conference**, Milan, Italy, 24-27 March 2025.
 * **TPC** for the 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), **flagship conference**, Washington, DC, USA, 07-10 Oct 2024.
-* **TPC** for the IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), **flagship conference**, Valencia, Spain, 2–5 Sep 2024.
+* **TPC** for the 2024 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), **flagship conference**, Valencia, Spain, 2–5 Sep 2024.
 * **TPC** for the 2024 IEEE Wireless Communications and Networking Conference (WCNC), **flagship conference**, Dubai, UAE, 21-24 April 2024.
 * **TPC** for the 8th International Conference on Digital Signal Processing (ICDSP 2024), Hangzhou, China, 23-25 Feb 2024.
 * **TPC** for the 2023 IEEE 99th Vehicular Technology Conference (VTC2023-Fall), **flagship conference**, Hongkong, 10-13 Oct 2023.
