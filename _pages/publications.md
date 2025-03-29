@@ -21,7 +21,7 @@ author_profile: true
 
 ## Journals
 
-[J.1] **B.Hu**, J.DU, J.Zhang & X.Chu (2025), [Computation Offloading and Resource Allocation in Mixed Cloud/Vehicular-fog Computing Systems](https://ieeexplore.ieee.org/document/10945654). IEEE Transactions on Mobile Computing. 2025. (Q1/中科院一区Top, CCF-A, IF=7.7)
+[J.1] **B.Hu***, J.DU, J.Zhang & X.Chu (2025), [Computation Offloading and Resource Allocation in Mixed Cloud/Vehicular-fog Computing Systems](https://ieeexplore.ieee.org/document/10945654). IEEE Transactions on Mobile Computing. 2025. (Q1/中科院一区Top, CCF-A, IF=7.7)
 
 [J.2] J.Du, Z.Yu, S.Li, **B.Hu**, Y.Gao & X.Chu (2025), [Blockchain and Digital Twin Empowered Edge Caching for D2D Wireless Networks](https://www.sciencedirect.com/science/article/pii/S0167739X2400668X). Future Generation Computer Systems. 2025. (Q1/中科院二区Top, IF=6.2)
 
