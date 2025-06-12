@@ -39,17 +39,14 @@ redirect_from:
 * **TPC** for the 8th International Conference on Digital Signal Processing (ICDSP 2024), Hangzhou, China, 23-25 Feb 2024.
 * **TPC** for the 2023 IEEE 99th Vehicular Technology Conference (VTC2023-Fall), **flagship conference**, Hongkong, 10-13 Oct 2023.
 
-## External Standing - Conference Session Chair
-
-* **Session Chair** of the Session on "Session AIECN - International Workshop on Artificial Intelligence Empowered Communication and Networking" for the 2024 IEEE 33rd International Conference on Computer Communications and Networks (ICCCN 2024), Big Island, Hawaii, USA, 29-31 July 2024.
-* **Session Chair** of the Session on "Session 14 Communication System and Network Model" for the 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI), Taiyuan, China, 26-28 May 2023.
-
 ## External Standing - Reviewer for Journals
 
+* **Reviewer** for the IEEE Internet of Things Journal (JCR Q1).
+* **Reviewer** for the IEEE Transactions on Communications (JCR Q1).
 * **Reviewer** for the IEEE Transactions on Network Science and Engineering (JCR Q1).
+* **Reviewer** for the IEEE Access (JCR Q2).
 * **Reviewer** for the Vehicular Communications (Elsevier, JCR Q1).
 * **Reviewer** for the Computer Communications (Elsevier, JCR Q1).
-* **Reviewer** for the IEEE Access (JCR Q2).
 * **Reviewer** for the ACM Transactions on Sensor Networks (ACM, JCR Q2).
 
 ## External Standing - Reviewer for Conferences
@@ -64,3 +61,10 @@ redirect_from:
 * **Reviewer** for the 2023 IEEE 99th Vehicular Technology Conference (VTC2023-Fall), **flagship conference**, Hongkong, 10-13 Oct 2023.
 * **Reviewer** for the 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI), Taiyuan, China, 26-28 May 2023.
 * **Reviewer** for the 2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall), **flagship conference**, Honolulu, Hawaii, USA, 22-25 Sep 2019.
+
+* ## External Standing - Conference Session Chair
+
+* **Session Chair** of the Session on "Special Session 10: AI-Empowered Low-Altitude Economy Integrated Sensing, Communications, and Computing" for the 2025 IEEE 5th International Conference on Computer Communication and Artificial Intelligence (CCAI), Haikou, China, 23-25 May 2023.
+* **Session Chair** of the Session on "Session AIECN - International Workshop on Artificial Intelligence Empowered Communication and Networking" for the 2024 IEEE 33rd International Conference on Computer Communications and Networks (ICCCN 2024), Big Island, Hawaii, USA, 29-31 July 2024.
+* **Session Chair** of the Session on "Session 14 Communication System and Network Model" for the 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI), Taiyuan, China, 26-28 May 2023.
+
