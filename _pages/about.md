@@ -47,6 +47,7 @@ I am interested in the broad area of Wireless Communications, including but not 
 
 ## Awards and Honours
 
+* International-Level, Young Investigator Award - the 2025 IEEE 5th International Conference on Computer Communication and Artificial Intelligence (CCAI) (2025).
 * National-Level, The 1st XJTLU Innovative Cases of Industry Education Integrated Curriculum Competition - Third Prize (2024).
 * University-Level, XJTLU-IoT - Internationalisation Award (2023-2024).
 * Provincial-Level, 2023 Jiangsu Shuangchuang PhD Talent (2023).
